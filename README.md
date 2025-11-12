@@ -18,3 +18,6 @@
 - footer.md 파일 추가
 
 ## SEARCH 개발
+## SIDEBAR 개발
+
+- SIDEBAR 파일 추가
